@@ -14,14 +14,9 @@ I'm an AI Engineer, Python Developer, and passionate about education and innovat
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-- Python, Pandas, NumPy
-- Machine Learning, Deep Learning
-- Physics-based AI, Data Science
-- Web: HTML, CSS, Flask
-
 ## 🎓 Education
 - Bachelor's in Physics
-- Self-taught AI & ML engineer
+- Self-taught AI & ML engineer in Coursera, Mohirdev
 
 ## 🚀 Featured Projects
 - [My machine learning models](https://github.com/JavohirTF7/machine-learning.git)
