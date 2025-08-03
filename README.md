@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Javohir
+I'm an AI Engineer, Python Developer, and passionate about education and innovation.
 
-<!--
-**JavohirTF7/JavohirTF7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
+- Python, Pandas, NumPy
+- Machine Learning, Deep Learning
+- Physics-based AI, Data Science
+- Web: HTML, CSS, Flask
 
-Here are some ideas to get you started:
+## 🎓 Education
+- Bachelor's in Physics
+- Self-taught AI & ML engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Stock Predictor](https://github.com/JavohirTF7/stock-predictor)
+- [Physics AI](https://github.com/JavohirTF7/physics-ai)
+
+## 📫 Reach Me
+- 🔗 [Website](https://javohir-toshkurgonov.netlify.app/)
+- 🎥 [YouTube](https://www.youtube.com/@Javohir-toshqurgonov)
+- 💼 [LinkedIn](https://www.linkedin.com/in/javohir-toshkurgonov/)
+
