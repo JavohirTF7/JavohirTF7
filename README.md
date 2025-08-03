@@ -20,3 +20,4 @@ I'm an AI Engineer, Python Developer, and passionate about education and innovat
 - 🎥 [YouTube](https://www.youtube.com/@Javohir-toshqurgonov)
 - 💼 [LinkedIn](https://www.linkedin.com/in/javohir-toshkurgonov/)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
