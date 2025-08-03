@@ -26,4 +26,6 @@ I'm an AI Engineer, Python Developer, and passionate about education and innovat
 - 💼 [LinkedIn](https://www.linkedin.com/in/javohir-toshkurgonov/)
 
 ![Javohir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavohirTF7&show_icons=true&theme=tokyonight)
+![Profile views](https://komarev.com/ghpvc/?username=JavohirTF7)
+
 
