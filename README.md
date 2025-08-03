@@ -12,8 +12,8 @@ I'm an AI Engineer, Python Developer, and passionate about education and innovat
 - Self-taught AI & ML engineer
 
 ## 🚀 Featured Projects
-- [Stock Predictor](https://github.com/JavohirTF7/stock-predictor)
-- [Physics AI](https://github.com/JavohirTF7/physics-ai)
+- [My machine learning models](https://github.com/JavohirTF7/machine-learning.git)
+- [Cashierless Store](https://github.com/JavohirTF7/Cashierless_Store)
 
 ## 📫 Reach Me
 - 🔗 [Website](https://javohir-toshkurgonov.netlify.app/)
